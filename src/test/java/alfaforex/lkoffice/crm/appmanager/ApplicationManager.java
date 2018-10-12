@@ -1,11 +1,11 @@
 package alfaforex.lkoffice.crm.appmanager;
 
-import alfaforex.lkoffice.crm.generators.CustomerDataGenerator;
-import alfaforex.lkoffice.crm.model.CustomerData;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.remote.BrowserType;
 
-import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 public class ApplicationManager {
@@ -15,18 +15,30 @@ public class ApplicationManager {
   private  SessionHelper sessionHelper;
   private  NavigationHelper navigationHelper;
   private  CustomerHelper customerHelper;
+  private String browser;
+
+  public ApplicationManager(String browser) {
+    this.browser = browser;
+  }
 
   public void init() {
     System.setProperty("webdriver.gecko.driver", "/home/irina_okhotina/Документы/Projects/pageobjectseleniumtest/drivers/geckodriver");
     System.setProperty("webdriver.chrome.driver", "/home/irina_okhotina/Документы/Projects/pageobjectseleniumtest/drivers/chromedriver");
+    if (browser.equals(BrowserType.CHROME) ) {
+      driver = new ChromeDriver();
+    } else if (browser.equals(BrowserType.FIREFOX) ) {
+      driver = new FirefoxDriver();
+    } else  if (browser.equals(BrowserType.IE) ) {
+      driver = new InternetExplorerDriver();
+    }
     driver = new ChromeDriver();
-    driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+    driver.manage().timeouts().implicitlyWait(70, TimeUnit.SECONDS);
     driver.manage().window().maximize();
-    driver.get("https://office-lk-rc7-dev.alfaforex.com/index/login");
+    driver.get("https://office-lk-rc-dev.alfaforex.ru/index/login");
     customerHelper = new CustomerHelper(driver);
     navigationHelper = new NavigationHelper(driver);
     sessionHelper = new SessionHelper(driver);
-    sessionHelper.login("Alena", "QWEasd123", "Russian", "test");
+    sessionHelper.login("Tester", "QWEqwe123", "Russian", "test");
   }
 
   public void stop() {

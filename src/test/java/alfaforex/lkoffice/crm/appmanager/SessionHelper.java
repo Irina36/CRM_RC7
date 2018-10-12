@@ -12,22 +12,14 @@ public class SessionHelper extends HelperBase{
   }
 
   public void login(String username, String password, String language, String code) {
-    type(By.id("loginform-username"), username);
-    type(By.id("loginform-password"), password);
+    typeText(By.id("loginform-username"), username);
+    typeText(By.id("loginform-password"), password);
     select(By.id("loginform-language"), language );
 
     if (isElementPresent(By.id("loginform-verify_code"))) {
-      type(By.id("loginform-verify_code"), code);
+      typeText(By.id("loginform-verify_code"), code);
     }
-    driver.findElement(By.id("login-submit")).click();
+    actionsMouse(By.xpath("//*[@id=\"login-submit\"]"));
   }
 
-  public boolean isElementPresent(By by) {
-    try {
-      driver.findElement(by);
-      return true;
-    } catch (NoSuchElementException e) {
-      return false;
-    }
-  }
 }

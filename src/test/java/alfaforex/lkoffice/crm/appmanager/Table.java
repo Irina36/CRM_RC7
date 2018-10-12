@@ -7,27 +7,18 @@ import org.openqa.selenium.WebElement;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Calendar {
+public class Table {
 
-  private WebElement calElement;
-  private WebDriver driver;
+  WebElement tableElement;
 
-  public Calendar(WebElement calElement, WebDriver driver) {
-    this.calElement = calElement;
-    this.driver = driver;
+
+  public Table(WebElement tableElement) {
+    this.tableElement = tableElement;
   }
 
   public List<WebElement> getRows() {
-    List<WebElement> rows = calElement.findElements(By.xpath(".//tr"));
-    rows.remove(0);
-    rows.remove(1);
+    List<WebElement> rows = tableElement.findElements(By.xpath(".//tr"));
     return rows;
-  }
-
-  public List<WebElement> getHeadings() {
-    WebElement headingRows = calElement.findElement(By.xpath(".//tr[1]"));
-    List<WebElement>  headingColumns = headingRows.findElements(By.xpath(".//th"));
-    return headingColumns;
   }
 
   public List<List<WebElement>> getRowsWithColumns() {

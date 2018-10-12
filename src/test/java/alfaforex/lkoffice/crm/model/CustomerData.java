@@ -1,6 +1,9 @@
 package alfaforex.lkoffice.crm.model;
 
+import java.io.File;
+
 public class CustomerData {
+
   private  String lastname;
   private  String firstname;
   private  String dateOfBirth;
@@ -10,14 +13,69 @@ public class CustomerData {
   private  String email;
   private  String phone;
   private  String passportNumber;
-  private  String dateIssue;
-  private  String issueBy;
-  private  String citizenshipCountry;
-  private  String country;
-  private  String city;
-  private  String street;
-  private  String house;
+  private  String passportDateIssue;
+  private  String passportIssueBy;
   private  String pass;
+  private  String typeCustomer;
+  private  String passportDepartmentCode;
+  private  String snils;
+  private  String innCountry;
+  private  String innSourceType;
+  private  String inn;
+  private  String registration;
+  private  String citizenshipAddress;
+  private  String identityDocument;
+  private  String documentConfirming;
+
+  public CustomerData withTypeCustomer(String getTypeCustomer) {
+    this.typeCustomer = getTypeCustomer;
+    return this;
+  }
+
+  public CustomerData withPassportDepartmentCode(String passportDepartmentCode) {
+    this.passportDepartmentCode = passportDepartmentCode;
+    return this;
+  }
+
+  public CustomerData withSnils(String snils) {
+    this.snils = snils;
+    return this;
+  }
+
+  public CustomerData withInnCountry(String innCountry) {
+    this.innCountry = innCountry;
+    return this;
+  }
+
+  public CustomerData withInnSourceType(String innSourceType) {
+    this.innSourceType = innSourceType;
+    return this;
+  }
+
+  public CustomerData withRegistrationCountry (String registration) {
+    this.registration = registration;
+    return this;
+  }
+
+  public CustomerData withInn(String inn) {
+    this.inn = inn;
+    return this;
+  }
+
+  public CustomerData withCitizenshipAddress(String citizenshipAddress) {
+    this.citizenshipAddress = citizenshipAddress;
+    return this;
+  }
+
+  public CustomerData withIdentityDocument(String identityDocument) {
+    this.identityDocument = identityDocument;
+    return this;
+  }
+
+  public CustomerData withDocumentConfirming(String documentConfirming) {
+    this.documentConfirming = documentConfirming;
+    return this;
+  }
 
   public CustomerData withLastname(String lastname) {
     this.lastname = lastname;
@@ -64,38 +122,13 @@ public class CustomerData {
     return this;
   }
 
-  public CustomerData withDateIssue(String dateIssue) {
-    this.dateIssue = dateIssue;
+  public CustomerData withPassportDateIssue(String dateIssue) {
+    this.passportDateIssue = dateIssue;
     return this;
   }
 
-  public CustomerData withIssueBy(String issueBy) {
-    this.issueBy = issueBy;
-    return this;
-  }
-
-  public CustomerData withCitizenshipCountry(String citizenshipCountry) {
-    this.citizenshipCountry = citizenshipCountry;
-    return this;
-  }
-
-  public CustomerData withCountry(String country) {
-    this.country = country;
-    return this;
-  }
-
-  public CustomerData withCity(String city) {
-    this.city = city;
-    return this;
-  }
-
-  public CustomerData withStreet(String street) {
-    this.street = street;
-    return this;
-  }
-
-  public CustomerData withHouse(String house) {
-    this.house = house;
+  public CustomerData withPassportIssueBy(String issueBy) {
+    this.passportIssueBy = issueBy;
     return this;
   }
 
@@ -104,6 +137,9 @@ public class CustomerData {
     return this;
   }
 
+  public String getTypeCustomer() {
+    return typeCustomer;
+  }
 
   public String getLastname() {
     return lastname;
@@ -141,35 +177,49 @@ public class CustomerData {
     return passportNumber;
   }
 
-  public String getDateIssue() {
-    return dateIssue;
+  public String getPassportDateIssue() {
+    return passportDateIssue;
   }
 
-  public String getIssueBy() {
-    return issueBy;
+  public String getPassportIssueBy() {
+    return passportIssueBy;
   }
 
-  public String getCitizenshipCountry() {
-    return citizenshipCountry;
-  }
-
-  public String getCountry() {
-    return country;
-  }
-
-  public String getCity() {
-    return city;
-  }
-
-  public String getStreet() {
-    return street;
-  }
-
-  public String getHouse() {
-    return house;
-  }
+  public String getSnils() { return snils; }
 
   public String getPass() {
     return pass;
+  }
+
+  public String getPassportDepartmentCode() {
+    return passportDepartmentCode;
+  }
+
+  public String getInnCountry() {
+    return innCountry;
+  }
+
+  public String getInnSourceType() {
+    return innSourceType;
+  }
+
+  public String getInn() {
+    return inn;
+  }
+
+  public String getRegistrationCountry() {
+    return registration;
+  }
+
+  public String getCitizenshipAddress() {
+    return citizenshipAddress;
+  }
+
+  public String getIdentityDocument() {
+    return identityDocument;
+  }
+
+  public String getDocumentConfirming() {
+    return documentConfirming;
   }
 }

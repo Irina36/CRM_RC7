@@ -5,21 +5,30 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules/backoffice.iml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules/backoffice_main.iml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules/backoffice_test.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules/java_pft-lkoffice.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules/lkoffice.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_3_0_alpha4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_3_0_alpha4.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_72.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_1_3.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_25_0_jre.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_2_6_0.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_slickqa_testng_7_0_0_7.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_10_0.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_mail_javax_mail_1_6_0.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_thoughtworks_xstream_xstream_1_4_8.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_10.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_activation_activation_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_8_0_12.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_8_15.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_5.xml" />
@@ -37,6 +46,7 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_14_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_8_0_beta1.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xmlpull_xmlpull_1_1_3_1.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xpp3_xpp3_min_1_1_4c.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
@@ -45,21 +55,65 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/backoffice_test.iml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LICENSE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
       <change beforePath="" afterPath="$PROJECT_DIR$/backoffice.iml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/MyFirstProgramm.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/libs/sandbox.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" />
       <change beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
       <change beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/alfaforex/lkoffice/crm/appmanager/ApplicationManager.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/alfaforex/lkoffice/crm/appmanager/CustomerHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/alfaforex/lkoffice/crm/appmanager/HelperBase.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/alfaforex/lkoffice/crm/appmanager/NavigationHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/alfaforex/lkoffice/crm/appmanager/SessionHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/alfaforex/lkoffice/crm/generators/CustomerDataGenerator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/alfaforex/lkoffice/crm/model/CustomerData.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/alfaforex/lkoffice/crm/tests/TestBase.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/resources/Doc1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/resources/Doc2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/resources/customers.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/resources/logback.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/resources/testng.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/ApplicationManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/Calendar.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/CustomerHelper.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/HelperBase.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/NavigationHelper.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/SessionHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/Table.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/generators/CustomerDataGenerator.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/model/CustomerData.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/CreateCustomerTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/CustomerCreateTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/CustomerModificationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/DbConnectionTest.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/TestBase.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181011T171737.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181011T183627.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181011T191131.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181011T192219.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181012T183301.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181012T183455.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181012T183633.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181012T184859.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181012T185041.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181012T191200.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181012T191944.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181012T192207.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181012T192356.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181012T192549.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181012T192811.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181012T193003.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181012T193201.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/log/test-20181012T193457.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/Doc1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/Doc2.jpg" />
       <change beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/customers.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/logback.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../backoffice_RC/CRM_RC7" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/.idea/compiler.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/.idea/gradle.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/.idea/libraries/Gradle__com_beust_jcommander_1_72.xml" />
@@ -80,6 +134,7 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_9.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_0_0.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/.idea/libraries/Gradle__org_hamcrest_java_hamcrest_2_0_0_0.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_14_0.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_14_0.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" />
@@ -102,9 +157,24 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/.idea/uiDesigner.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/.idea/vcs.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/drivers/chromedriver" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/drivers/geckodriver" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/drivers/phantomjs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/gradle/wrapper/gradle-wrapper.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/gradlew" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/gradlew.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/out/test/classes/appmanager/ApplicationManager.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/out/test/classes/appmanager/RegistrationHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/out/test/classes/model/RegistrationData.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/out/test/classes/tests/RegistrationTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/out/test/classes/tests/TestBase.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/settings.gradle" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/src/test/java/appmanager/ApplicationManager.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/src/test/java/appmanager/RegistrationHelper.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/src/test/java/model/RegistrationData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/src/test/java/tests/RegistrationTest.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../lkoffice/src/test/java/tests/TestBase.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../web-tests/.idea/compiler.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../web-tests/.idea/gradle.xml" />
@@ -174,12 +244,12 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="CreateCustomerTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/CreateCustomerTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CustomerCreateTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/CustomerCreateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+            <state relative-caret-position="270">
+              <caret line="39" column="23" lean-forward="false" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -187,72 +257,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerDataGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/generators/CustomerDataGenerator.java">
+      <file leaf-file-name="CustomerModificationTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/CustomerModificationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="35" column="37" lean-forward="false" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2979#2993#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="customers.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/customers.json">
+      <file leaf-file-name="NavigationHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/NavigationHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-369">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/model/CustomerData.java">
+      <file leaf-file-name="Table.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/Table.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="81" column="33" lean-forward="false" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state relative-caret-position="270">
+              <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/ApplicationManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1249#1250#0" expanded="true" />
-                <element signature="e#1272#1273#0" expanded="true" />
-                <element signature="e#1341#1342#0" expanded="true" />
-                <element signature="e#1377#1378#0" expanded="true" />
-                <element signature="e#1410#1411#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="backoffice.iml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/backoffice.iml">
+      <file leaf-file-name="test-20181011T192219.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/log/test-20181011T192219.log">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -261,29 +302,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SessionHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/SessionHelper.java">
+      <file leaf-file-name="ApplicationManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/ApplicationManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="150">
+              <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerHelper.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Assert.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.slickqa/testng/7.0.0-7/a69d028231f68c7b97d8f5d860c9273d9bba1909/testng-7.0.0-7-sources.jar!/org/testng/Assert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-243">
+              <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+              <folding>
+                <element signature="e#1689#1690#0" expanded="true" />
+                <element signature="e#1726#1727#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test-20181011T171737.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/log/test-20181011T171737.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerHelper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/CustomerHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="43" column="41" lean-forward="false" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+            <state relative-caret-position="508">
+              <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-                <element signature="e#2193#2194#0" expanded="true" />
-                <element signature="e#2260#2261#0" expanded="true" />
+                <element signature="e#2965#2966#0" expanded="true" />
+                <element signature="e#3001#3002#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -292,13 +351,9 @@
       <file leaf-file-name="HelperBase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/HelperBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="28" column="35" lean-forward="false" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -318,7 +373,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="$USER_HOME$/Desktop/gradle-4.9" />
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/gradle-4.9" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -493,8 +548,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="1538216456000" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="67051702" />
+        <entry key="$PROJECT_DIR$" value="1539266951000" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="1026681936" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -621,16 +676,23 @@
         <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/Calendar.java" />
         <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/Calendar.java" />
-        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/SessionHelper.java" />
-        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/HelperBase.java" />
-        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/NavigationHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/model/CustomerData.java" />
-        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/CreateCustomerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/customers.json" />
-        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/generators/CustomerDataGenerator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/CustomerHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/SessionHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/DbConnectionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/customers.json" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/CreateCustomerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/HelperBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/Table.java" />
+        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/NavigationHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/CustomerModificationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/CustomerHelper.java" />
       </list>
     </option>
   </component>
@@ -680,9 +742,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -695,22 +755,99 @@
               <item name="backoffice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="backoffice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backoffice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="backoffice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backoffice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backoffice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backoffice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backoffice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backoffice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
+              <item name="appmanager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backoffice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backoffice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
+              <item name="generators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backoffice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backoffice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backoffice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backoffice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backoffice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backoffice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backoffice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backoffice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web-tests" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39425287" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../backoffice_RC/CRM_RC7" />
     <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/generators" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="alfaforex.lkoffice.crm.appmanager" />
       <recent name="alfaforex.lkoffice.crm" />
@@ -728,31 +865,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CustomerDataGenerator">
+  <component name="RunManager" selected="TestNG.CustomerModificationTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="CustomerDataGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="alfaforex.lkoffice.crm.generators.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="alfaforex.lkoffice.crm.generators.CustomerDataGenerator" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="-f src/test/resources/customers.json -c 3 -d json" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="backoffice_test" />
-      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -795,7 +913,7 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
-    <configuration name="CreateCustomerTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CustomerCreateTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="alfaforex.lkoffice.crm.appmanager.*" />
@@ -805,12 +923,135 @@
       <module name="backoffice_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="alfaforex.lkoffice.crm.tests" />
+      <option name="MAIN_CLASS_NAME" value="alfaforex.lkoffice.crm.tests.CustomerCreateTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea " />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" value="" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="CustomerCreateTest.createCustomerValidData" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="alfaforex.lkoffice.crm.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="backoffice_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="alfaforex.lkoffice.crm" />
-      <option name="MAIN_CLASS_NAME" value="alfaforex.lkoffice.crm.tests.CreateCustomerTest" />
+      <option name="PACKAGE_NAME" value="alfaforex.lkoffice.crm.tests" />
+      <option name="MAIN_CLASS_NAME" value="alfaforex.lkoffice.crm.tests.CustomerCreateTest" />
+      <option name="METHOD_NAME" value="createCustomerValidData" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="CustomerModificationTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="alfaforex.lkoffice.crm.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="backoffice_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="alfaforex.lkoffice.crm.tests" />
+      <option name="MAIN_CLASS_NAME" value="alfaforex.lkoffice.crm.tests.CustomerModificationTest" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="CustomerModificationTest.modifyCustomerPersonalData" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="alfaforex.lkoffice.crm.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="backoffice_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="alfaforex.lkoffice.crm.tests" />
+      <option name="MAIN_CLASS_NAME" value="alfaforex.lkoffice.crm.tests.CustomerModificationTest" />
+      <option name="METHOD_NAME" value="modifyCustomerPersonalData" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="/home/irina_okhotina/Документы/Projects/java_pft/backoffice/src/test/resources/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="backoffice_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -860,14 +1101,20 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Application.CustomerDataGenerator" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.CreateCustomerTest" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="TestNG.CustomerCreateTest" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG./home/irina_okhotina/Документы/Projects/java_pft/backoffice/src/test/resources/testng.xml" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.CustomerCreateTest.createCustomerValidData" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.CustomerModificationTest.modifyCustomerPersonalData" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.CustomerModificationTest" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.CustomerDataGenerator" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.CreateCustomerTest" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="TestNG.CustomerModificationTest" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.CustomerModificationTest.modifyCustomerPersonalData" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.CustomerCreateTest.createCustomerValidData" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG./home/irina_okhotina/Документы/Projects/java_pft/backoffice/src/test/resources/testng.xml" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.CustomerCreateTest" />
       </list>
     </recent_temporary>
   </component>
@@ -888,68 +1135,68 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CreateCustomerTest - 2018.10.01 at 15h 32m 16s.xml">
-      <configuration name="CreateCustomerTest" configurationId="TestNG" />
+    <history-entry file="CustomerModificationTest - 2018.10.12 at 19h 12m 41s.xml">
+      <configuration name="CustomerModificationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateCustomerTest - 2018.10.01 at 15h 39m 37s.xml">
-      <configuration name="CreateCustomerTest" configurationId="TestNG" />
+    <history-entry file="CustomerModificationTest - 2018.10.12 at 19h 21m 11s.xml">
+      <configuration name="CustomerModificationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateCustomerTest - 2018.10.01 at 15h 41m 56s.xml">
-      <configuration name="CreateCustomerTest" configurationId="TestNG" />
+    <history-entry file="CustomerModificationTest - 2018.10.12 at 19h 23m 35s.xml">
+      <configuration name="CustomerModificationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateCustomerTest - 2018.10.01 at 15h 45m 48s.xml">
-      <configuration name="CreateCustomerTest" configurationId="TestNG" />
+    <history-entry file="CustomerModificationTest - 2018.10.12 at 19h 25m 27s.xml">
+      <configuration name="CustomerModificationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateCustomerTest - 2018.10.01 at 15h 49m 17s.xml">
-      <configuration name="CreateCustomerTest" configurationId="TestNG" />
+    <history-entry file="CustomerModificationTest - 2018.10.12 at 19h 27m 23s.xml">
+      <configuration name="CustomerModificationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateCustomerTest - 2018.10.01 at 15h 58m 00s.xml">
-      <configuration name="CreateCustomerTest" configurationId="TestNG" />
+    <history-entry file="CustomerModificationTest - 2018.10.12 at 19h 29m 47s.xml">
+      <configuration name="CustomerModificationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateCustomerTest - 2018.10.01 at 16h 00m 21s.xml">
-      <configuration name="CreateCustomerTest" configurationId="TestNG" />
+    <history-entry file="CustomerModificationTest - 2018.10.12 at 19h 31m 37s.xml">
+      <configuration name="CustomerModificationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateCustomerTest - 2018.10.01 at 16h 01m 00s.xml">
-      <configuration name="CreateCustomerTest" configurationId="TestNG" />
+    <history-entry file="CustomerModificationTest - 2018.10.12 at 19h 33m 35s.xml">
+      <configuration name="CustomerModificationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateCustomerTest - 2018.10.01 at 16h 03m 44s.xml">
-      <configuration name="CreateCustomerTest" configurationId="TestNG" />
+    <history-entry file="CustomerModificationTest - 2018.10.12 at 19h 36m 35s.xml">
+      <configuration name="CustomerModificationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateCustomerTest - 2018.10.01 at 16h 31m 27s.xml">
-      <configuration name="CreateCustomerTest" configurationId="TestNG" />
+    <history-entry file="CustomerModificationTest_modifyCustomerPersonalData - 2018.10.12 at 18h 52m 07s.xml">
+      <configuration name="CustomerModificationTest.modifyCustomerPersonalData" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1922" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32217574" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39958158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -958,82 +1205,34 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/CreateCustomerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/CreateCustomertest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="133" column="3" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="133" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.14.0/8c0af6fdccdc89a4394de7e3a8817ed2d6e41d7d/selenium-api-3.14.0-sources.jar!/org/openqa/selenium/By.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-          <folding>
-            <element signature="e#2059#2060#0" expanded="false" />
-            <element signature="e#2088#2089#0" expanded="false" />
-            <element signature="e#3221#3222#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.slickqa/testng/7.0.0-7/a69d028231f68c7b97d8f5d860c9273d9bba1909/testng-7.0.0-7-sources.jar!/org/testng/internal/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="695" column="0" lean-forward="false" selection-start-line="695" selection-start-column="0" selection-end-line="695" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/Calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#975#993#0" expanded="false" />
+            <element signature="e#786#787#0" expanded="false" />
+            <element signature="e#806#807#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/generators.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/ApplicationManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/repositoryes.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/NavigationHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        <state relative-caret-position="405">
+          <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1637#1638#0" expanded="false" />
+            <element signature="e#1660#1661#0" expanded="false" />
+            <element signature="e#1729#1730#0" expanded="false" />
+            <element signature="e#1765#1766#0" expanded="false" />
+            <element signature="e#1798#1799#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1046,99 +1245,415 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/model/CustomerData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="81" column="33" lean-forward="false" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/HelperBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="28" column="35" lean-forward="false" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/CreateCustomerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/generators/CustomerDataGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="35" column="37" lean-forward="false" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2979#2993#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/customers.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-369">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/CustomerHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="43" column="41" lean-forward="false" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#2193#2194#0" expanded="true" />
-            <element signature="e#2260#2261#0" expanded="true" />
+            <element signature="e#2965#2966#0" expanded="true" />
+            <element signature="e#3001#3002#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/TestBase.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/HelperBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        <state relative-caret-position="330">
+          <caret line="28" column="35" lean-forward="false" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/ApplicationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1249#1250#0" expanded="true" />
-            <element signature="e#1272#1273#0" expanded="true" />
-            <element signature="e#1341#1342#0" expanded="true" />
-            <element signature="e#1377#1378#0" expanded="true" />
-            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#279#280#0" expanded="false" />
+            <element signature="e#309#310#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backoffice.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CreateCustomerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/CreateCustomertest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/generators.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/repositoryes.json" />
+    <entry file="file://$PROJECT_DIR$/backoffice.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/blond_ros.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Doc2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/default-java!/java.base/java/util/ArrayList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="212" column="0" lean-forward="false" selection-start-line="212" selection-start-column="0" selection-end-line="212" selection-end-column="0" />
+          <folding>
+            <marker date="1524318087000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1524318087000" expanded="false" signature="133:444" ph="..." />
+            <marker date="1524318087000" expanded="true" signature="976:1257" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="1279:1286" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="1339:1343" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="1391:1704" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="1733:1919" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="1967:2160" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="2203:2302" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="2329:2336" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="2368:2372" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="2417:2906" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="2959:3111" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="3132:3139" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="3156:3160" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="3188:3195" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="3217:3221" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="3258:3265" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="3293:3297" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="3330:3644" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="3681:4005" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="4031:4290" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="4319:4326" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="4376:4380" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="4414:4691" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="4719:4726" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="4757:4761" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="4811:4818" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="4835:4839" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="4867:4950" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="4989:5138" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="5193:5320" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="5348:5437" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="5479:5829" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="5860:6024" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="6060:6546" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="6594:6776" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="6800:6960" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="7013:7476" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="7540:8193" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="8252:8476" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="8539:8703" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="8748:8872" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="8916:8923" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="8973:8977" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="9046:9118" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="9163:9170" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="9218:9222" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="9267:9274" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="9321:9325" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="9405:10060" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="10130:10425" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="10517:11034" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="11085:11165" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="11206:11213" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="11245:11249" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="11282:11289" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="11316:11320" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="11375:11494" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="11546:11913" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="11952:11959" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="12011:12015" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="12053:12060" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="12094:12098" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="12148:12155" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="12179:12183" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="12237:12244" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="12282:12286" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="12342:12349" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="12392:12396" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="12462:13439" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="13493:13907" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="13953:14190" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="14217:14222" ph="{}" />
+            <marker date="1524318087000" expanded="true" signature="14285:16648" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="14438:14546" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="14575:14767" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="14825:15040" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="15100:15619" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="15682:16491" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="16523:16532" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="16576:16582" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="16616:16625" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="16638:16644" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="16732:27807" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="16937:17101" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="17180:17374" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="17415:17649" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="17679:17824" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="17848:17916" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="17960:18128" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="18161:18364" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="18425:18601" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="18655:18664" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="18697:18703" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="18769:19062" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="19109:19118" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="19152:19158" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="19205:19214" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="19247:19253" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="19324:19621" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="19680:19967" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="20002:20011" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="20038:20044" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="20103:24133" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="20213:24126" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="20308:20381" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="20415:20428" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="20468:20478" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="20504:21042" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="21080:21093" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="21117:21127" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="21157:21678" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="21745:22394" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="22426:22439" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="22458:22468" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="22504:22517" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="22540:22550" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="22581:23084" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="23115:23504" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="23535:23923" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="23969:24118" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="24190:24315" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="24362:24494" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="24540:24549" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="24599:24605" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="24649:24766" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="24823:25020" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="25062:27803" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="25135:27796" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="25238:25320" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="25353:25591" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="25653:26133" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="26197:26703" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="26770:27611" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="27647:27660" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="27704:27714" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="27752:27765" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="27778:27788" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="27885:29327" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="27910:27959" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="27993:28002" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="28026:28032" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="28060:28069" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="28088:28094" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="28126:28135" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="28158:28164" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="28190:28606" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="28633:28953" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="28980:29323" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="29372:31305" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="29448:29457" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="29505:29511" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="29541:29550" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="29592:29598" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="29620:30055" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="30082:30528" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="30591:31129" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="31171:31301" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.14.0/8c0af6fdccdc89a4394de7e3a8817ed2d6e41d7d/selenium-api-3.14.0-sources.jar!/org/openqa/selenium/By.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding>
+            <element signature="e#3221#3222#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.slickqa/testng/7.0.0-7/a69d028231f68c7b97d8f5d860c9273d9bba1909/testng-7.0.0-7-sources.jar!/org/testng/internal/MethodInvocationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="130" column="0" lean-forward="false" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.slickqa/testng/7.0.0-7/a69d028231f68c7b97d8f5d860c9273d9bba1909/testng-7.0.0-7-sources.jar!/org/testng/internal/TestMethodWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.slickqa/testng/7.0.0-7/a69d028231f68c7b97d8f5d860c9273d9bba1909/testng-7.0.0-7-sources.jar!/org/testng/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="578" column="0" lean-forward="false" selection-start-line="578" selection-start-column="0" selection-end-line="578" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.slickqa/testng/7.0.0-7/a69d028231f68c7b97d8f5d860c9273d9bba1909/testng-7.0.0-7-sources.jar!/org/testng/SuiteRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="305" column="0" lean-forward="false" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.slickqa/testng/7.0.0-7/a69d028231f68c7b97d8f5d860c9273d9bba1909/testng-7.0.0-7-sources.jar!/org/testng/SuiteRunnerWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <folding>
+            <element signature="e#2923#2924#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.slickqa/testng/7.0.0-7/a69d028231f68c7b97d8f5d860c9273d9bba1909/testng-7.0.0-7-sources.jar!/org/testng/TestNG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="981" column="0" lean-forward="false" selection-start-line="981" selection-start-column="0" selection-end-line="981" selection-end-column="0" />
+          <folding>
+            <element signature="e#32560#32561#0" expanded="false" />
+            <element signature="e#32595#32596#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/model/CustomerData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="217" column="16" lean-forward="false" selection-start-line="217" selection-start-column="16" selection-end-line="217" selection-end-column="16" />
+          <folding>
+            <element signature="e#4660#4661#0" expanded="false" />
+            <element signature="e#4693#4694#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Doc1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="41" column="73" lean-forward="true" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/SessionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/generators/CustomerDataGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="101" column="43" lean-forward="false" selection-start-line="101" selection-start-column="43" selection-end-line="101" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2791#2805#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/default-java!/java.base/java/lang/reflect/Method.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="124" column="21" lean-forward="false" selection-start-line="124" selection-start-column="21" selection-end-line="124" selection-end-column="21" />
+          <folding>
+            <marker date="1524318087000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1524318087000" expanded="false" signature="141:962" ph="..." />
+            <marker date="1524318087000" expanded="false" signature="1515:1522" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="1544:1548" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="1588:1595" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="1659:1663" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="1701:1873" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="2118:2523" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="2541:2984" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="3006:3459" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="3522:3684" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="3731:3738" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="3785:3789" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="3813:3820" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="3837:3841" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="3876:3883" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="3925:3929" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="3960:3967" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="3991:3995" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="4034:4041" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="4059:4063" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="4090:4097" ph=" { " />
+            <marker date="1524318087000" expanded="true" signature="4114:4118" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="4147:4154" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="4176:4180" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="4234:4352" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="4387:4394" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="4417:4421" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="4460:4583" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="4623:4630" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="4657:4661" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="4702:4709" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="4753:4757" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="4791:4798" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="4832:4836" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="4880:4887" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="4927:4931" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="4972:4979" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="5023:5027" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="5071:5078" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="5118:5122" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="5160:5561" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="5586:5593" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="5674:5678" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="5707:5832" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="5882:6048" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="6075:6573" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="6608:6615" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="6695:6699" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="6756:6963" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="6967:7027" ph="@{...}" />
+            <marker date="1524318087000" expanded="true" signature="7162:7520" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="7549:7556" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="7595:7599" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="7629:7636" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="7661:7665" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="7697:7704" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="7731:7735" ph=" }" />
+            <marker date="1524318087000" expanded="false" signature="7765:7772" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="7855:7859" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="7910:8207" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="8245:8252" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="8279:8283" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="8335:8457" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="8493:9303" ph="{...}" />
+            <marker date="1524318087000" expanded="true" signature="9379:9433" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="9481:9488" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="9526:9530" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="9582:9682" ph="{...}" />
+            <marker date="1524318087000" expanded="false" signature="9731:9738" ph=" { " />
+            <marker date="1524318087000" expanded="false" signature="9803:9807" ph=" }" />
+            <marker date="1524318087000" expanded="true" signature="9886:9986" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-{bySecond}.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1146,15 +1661,243 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test-20181005T125032.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/DbConnectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="56" lean-forward="true" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-20181005T115337.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-20181011T135138.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test-20181011T143148.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/log/test-{bySecond}.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/log/test-20181011T143956.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.slickqa/testng/7.0.0-7/a69d028231f68c7b97d8f5d860c9273d9bba1909/testng-7.0.0-7-sources.jar!/org/testng/internal/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="695" column="0" lean-forward="false" selection-start-line="695" selection-start-column="0" selection-end-line="695" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/customers.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="17" column="58" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="58" />
+          <folding>
+            <element signature="e#705#706#0" expanded="false" />
+            <element signature="e#725#726#0" expanded="false" />
+            <element signature="e#880#881#0" expanded="false" />
+            <element signature="e#930#931#0" expanded="false" />
+            <element signature="e#1006#1007#0" expanded="false" />
+            <element signature="e#1059#1060#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/log/test-20181011T171737.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.slickqa/testng/7.0.0-7/a69d028231f68c7b97d8f5d860c9273d9bba1909/testng-7.0.0-7-sources.jar!/org/testng/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243">
+          <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+          <folding>
+            <element signature="e#1689#1690#0" expanded="true" />
+            <element signature="e#1726#1727#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/log/test-20181011T192219.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/NavigationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/CustomerCreateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="39" column="23" lean-forward="false" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/tests/CustomerModificationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/alfaforex/lkoffice/crm/appmanager/CustomerHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding>
+            <element signature="e#2965#2966#0" expanded="true" />
+            <element signature="e#3001#3002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39425287" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39425287" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.39425287" />
               </list>
             </option>
           </splitter-proportions>
@@ -1162,11 +1905,24 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>&quot;10.0.1&quot; 2018-04-17</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.39425287" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>backoffice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39425287" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1186,10 +1942,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Gradle: com.beust:jcommander:1.72</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.39425287" />
               </list>
             </option>
           </splitter-proportions>
