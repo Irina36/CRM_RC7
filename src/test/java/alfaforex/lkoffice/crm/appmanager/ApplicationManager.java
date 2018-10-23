@@ -5,6 +5,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.BrowserType;
+import org.openqa.selenium.support.events.EventFiringWebDriver;
+import org.openqa.selenium.support.events.WebDriverEventListener;
 
 import java.util.concurrent.TimeUnit;
 
@@ -31,8 +33,7 @@ public class ApplicationManager {
     } else  if (browser.equals(BrowserType.IE) ) {
       driver = new InternetExplorerDriver();
     }
-    driver = new ChromeDriver();
-    driver.manage().timeouts().implicitlyWait(70, TimeUnit.SECONDS);
+    driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
     driver.manage().window().maximize();
     driver.get("https://office-lk-rc-dev.alfaforex.ru/index/login");
     customerHelper = new CustomerHelper(driver);

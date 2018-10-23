@@ -39,7 +39,7 @@ public class CustomerCreateTest extends TestBase{
      app.goTo().customerListPage();
      app.customer().create(customer);
      Thread.sleep(20000);
-     Boolean curdCustomerPage = app.customer().getCurdCustomerPage("Успешно сохранен");
+     Boolean curdCustomerPage = app.customer().isTextPresent("Успешно сохранен");
      assertTrue(curdCustomerPage);
      Thread.sleep(15000);
   }
@@ -48,9 +48,9 @@ public class CustomerCreateTest extends TestBase{
   public void createCustomerUniqueEmail(CustomerData customer) throws InterruptedException {
     app.goTo().customerListPage();
     app.customer().create(customer);
-    Boolean elementDisplayed = app.customer().isElementDisplayed();
+    Boolean elementError = app.customer().isPresentElementError();
     String textUniqueEmail = app.customer().getTextUniqueEmail();
-    assertTrue(elementDisplayed);
+    assertTrue(elementError);
     assertEquals(textUniqueEmail, "Клиент с таким Email уже зарегистрирован");
 
 

@@ -6,10 +6,7 @@ import org.openqa.selenium.WebDriver;
 
 public class SessionHelper extends HelperBase{
 
-  public SessionHelper(WebDriver driver) {
-
-    super(driver);
-  }
+  public SessionHelper(WebDriver driver) { super(driver); }
 
   public void login(String username, String password, String language, String code) {
     typeText(By.id("loginform-username"), username);

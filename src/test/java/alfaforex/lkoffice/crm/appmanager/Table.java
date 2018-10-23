@@ -1,11 +1,9 @@
 package alfaforex.lkoffice.crm.appmanager;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class Table {
 
@@ -23,18 +21,21 @@ public class Table {
 
   public List<List<WebElement>> getRowsWithColumns() {
     List<WebElement> rows = getRows();
-    List<List<WebElement>> rowsWithColumns = new ArrayList<List<WebElement>>();
-    for (WebElement row : rows) {
+    List<List<WebElement>> rowsWithColumns = new ArrayList<>();
+    for (WebElement row: rows) {
       List<WebElement> rowWithColumns = row.findElements(By.xpath(".//td"));
       rowsWithColumns.add(rowWithColumns);
     }
     return rowsWithColumns;
   }
 
-  public WebElement getVaueFromCell (int rowNumber, int columnNumber) {
+  public WebElement getVaueFromCell(int rowNumber, int columnNumber) {
     List<List<WebElement>> rowsWithColumns = getRowsWithColumns();
-    WebElement cell = rowsWithColumns.get(rowNumber - 1).get(columnNumber - 1);
+    WebElement cell = rowsWithColumns.get(rowNumber-1).get(columnNumber-1);
     return cell;
   }
-
 }
+
+
+
+

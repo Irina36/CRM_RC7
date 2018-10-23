@@ -1,4 +1,0 @@
-72448 [main] INFO  a.lkoffice.crm.tests.TestBase - Start createCustomerValidData
-141331 [main] INFO  a.lkoffice.crm.tests.TestBase - Stop createCustomerValidData
-141334 [main] INFO  a.lkoffice.crm.tests.TestBase - Start createCustomerUniqueEmail
-167148 [main] INFO  a.lkoffice.crm.tests.TestBase - Stop createCustomerUniqueEmail

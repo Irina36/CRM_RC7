@@ -3,6 +3,9 @@ package alfaforex.lkoffice.crm.appmanager;
 import alfaforex.lkoffice.crm.model.CustomerData;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+import java.util.List;
 
 public class CustomerHelper extends HelperBase{
 
@@ -55,15 +58,11 @@ public class CustomerHelper extends HelperBase{
     actionsMouse(By.xpath("//*[@id=\"create-real-customer-form\"]/div[3]/button[1]"));
   }
 
-  public Boolean getCurdCustomerPage(String text) {
-    return isTextPresent(text);
-  }
-
   public String getTextUniqueEmail() {
     return driver.findElement(By.xpath("//div[@class=\"form-group field-customer-email required\"]//label[@id=\"customer-email-error\"]")).getText();
   }
 
-  public Boolean isElementDisplayed() {
+  public Boolean isPresentElementError() {
     return driver.findElement(By.xpath("//div[@class=\"form-group field-customer-email required\"]//label[@id=\"customer-email-error\"]")).isEnabled();
   }
 
@@ -84,4 +83,26 @@ public class CustomerHelper extends HelperBase{
     return driver.findElement(By.xpath("//div[@id=\"customerindividual-registration_country_id-cont-cont\"]/div[1]")).getText();
   }
 
+  public String getAcceptedAtPersonalInfo() {
+    WebElement tableElement = driver.findElement(By.xpath("//div[@class=\"row\"]/div[2]/table[@id=\"w0\"]"));
+    WebElement elementHeading = tableElement.findElement(By.xpath(".//tr[11]/th[text()=\"Дата принятия\"]"));
+    WebElement elementCell = elementHeading.findElement(By.xpath(".//following-sibling::td"));
+    return elementCell.getText();
+  }
+
+  public String getAcceptedDataProfile() {
+    return driver.findElement(By.xpath("//*[@id=\"customer-tab-profile-form\"]/div[1]/div[2]")).getAttribute("textContent");
+  }
+
+  public Boolean isPresentPageVerification() {
+    return isElementPresent(By.xpath("//div[@id=\"w0\"]//table[@class=\"table table-bordered table-striped\"]\n"));
+  }
+
+  public Integer isPresentDocumentsPreview() {
+    return driver.findElements(By.xpath(".//img")).size();
+  }
+
+  public Boolean isPresentFieldNewPassword()  {
+    return isElementPresent(By.xpath("//*[@id=\"customerchangepasswordform-password\"]"));
+  }
 }
