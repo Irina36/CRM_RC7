@@ -25,7 +25,7 @@
         <test name="CustomersNavigationCardCustomer" >
 
             <classes>
-                <class name="alfaforex.lkoffice.crm.tests.NavigationCurdCustomerTest">
+                <class name="alfaforex.lkoffice.crm.tests.NavigationCardCustomerTest">
                     <methods>
                         <include name="customerProfile" />
                         <include name="customerVerification" />

@@ -1,11 +1,13 @@
 package alfaforex.lkoffice.crm.tests;
 
 import alfaforex.lkoffice.crm.appmanager.ApplicationManager;
+import alfaforex.lkoffice.crm.generators.CustomerDataGenerator;
 import org.openqa.selenium.remote.BrowserType;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.annotations.*;
 
+import java.io.IOException;
 import java.lang.reflect.Method;
 
 public class TestBase {
@@ -40,4 +42,5 @@ public class TestBase {
     app.goTo().customerCardPage();
     Thread.sleep(3000);
   }
+
 }

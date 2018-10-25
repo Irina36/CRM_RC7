@@ -1,0 +1,16 @@
+14:53:26.782 [main] INFO  a.lkoffice.crm.tests.TestBase - Start test modifyCustomerPersonalData
+14:53:40.710 [main] INFO  a.lkoffice.crm.tests.TestBase - Stop test modifyCustomerPersonalData
+14:53:51.852 [main] INFO  a.lkoffice.crm.tests.TestBase - Start test customerProfile
+14:53:52.362 [main] INFO  a.lkoffice.crm.tests.TestBase - Stop test customerProfile
+14:53:52.362 [main] INFO  a.lkoffice.crm.tests.TestBase - Start test customerVerification
+14:53:52.650 [main] INFO  a.lkoffice.crm.tests.TestBase - Stop test customerVerification
+14:53:52.651 [main] INFO  a.lkoffice.crm.tests.TestBase - Start test customerDocuments
+14:53:53.156 [main] INFO  a.lkoffice.crm.tests.TestBase - Stop test customerDocuments
+14:53:53.157 [main] INFO  a.lkoffice.crm.tests.TestBase - Start test customerAccounts
+14:53:56.268 [main] INFO  a.lkoffice.crm.tests.TestBase - Stop test customerAccounts
+14:53:56.269 [main] INFO  a.lkoffice.crm.tests.TestBase - Start test customerPayments
+14:53:59.545 [main] INFO  a.lkoffice.crm.tests.TestBase - Stop test customerPayments
+14:53:59.546 [main] INFO  a.lkoffice.crm.tests.TestBase - Start test customerTickets
+14:54:02.659 [main] INFO  a.lkoffice.crm.tests.TestBase - Stop test customerTickets
+14:54:02.660 [main] INFO  a.lkoffice.crm.tests.TestBase - Start test customerSettings
+14:54:05.780 [main] INFO  a.lkoffice.crm.tests.TestBase - Stop test customerSettings

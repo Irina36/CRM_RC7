@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
 
-public class NavigationCurdCustomerTest extends TestBase {
+public class NavigationCardCustomerTest extends TestBase {
 
   @Test(groups = {"CardCustomer"})
   public void customerProfile() {

@@ -1,6 +1,7 @@
 package alfaforex.lkoffice.crm.model;
 
 import java.io.File;
+import java.util.Random;
 
 public class CustomerData {
 
